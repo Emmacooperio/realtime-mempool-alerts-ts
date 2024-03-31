@@ -11,3 +11,4 @@
 # fix 4195
 # fix 6021
 # optimize 2019
+# refactor 7469
