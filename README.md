@@ -9,3 +9,4 @@
 - Update note 2264
 - Update note 6677
 - Update note 1230
+- Update note 8532
