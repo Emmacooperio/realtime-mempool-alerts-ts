@@ -19,3 +19,4 @@ pydantic==2.7.0
 pydantic==2.9.0
 pydantic==1.1.0
 web3==1.6.0
+pydantic==1.9.7
