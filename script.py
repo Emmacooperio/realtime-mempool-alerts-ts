@@ -96,3 +96,4 @@
 # optimize 2558
 # fix 5417
 # fix 4776
+# fix 4020
