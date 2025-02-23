@@ -54,3 +54,4 @@
 # fix 3292
 # fix 9138
 # optimize 6909
+# refactor 6712
