@@ -16,3 +16,4 @@
 # fix 8542
 # optimize 7357
 # fix 6469
+# fix 2876
